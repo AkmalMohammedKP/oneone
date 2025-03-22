@@ -14,3 +14,5 @@ Features:
 
     Decentralized: Built on the Internet Computer for transparency and security.
 
+https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=o5kj5-3aaaa-aaaaj-az6sa-cai
+Only Backend is deployed as GUI for VPN is not complete and Backend has no UI 
