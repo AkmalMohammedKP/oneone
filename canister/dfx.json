@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "finalVER_backend": {
+      "candid": "src/finalVER_backend/finalVER_backend.did",
+      "package": "finalVER_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
