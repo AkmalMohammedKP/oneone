@@ -1,7 +1,8 @@
 OneOne
 
-OneOne is a decentralized server-client management system built on the Internet Computer (IC). It allows servers to register, send heartbeats, and manage client assignments, while clients can select servers and interact with them securely.
-Features
+OneOne is a decentralized server-client P2P VPN system built on the Internet Computer (IC). It allows servers to register, send heartbeats, and manage client assignments, while clients can select servers and establish tunnel. 
+
+Features:
 
     Server Registration: Servers can register with a unique name, public key, and IP address.
 
